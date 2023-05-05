@@ -1,3 +1,4 @@
 # hello-circleci
 circleci ci pipline 
-https://codeforces.com/enter?back=%2FcontestInvitation%2Ffa5512cb4b372202f170db95f2d2b7ec13f179f7
+curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
+
